@@ -29,8 +29,7 @@ group by
 ;
 
 
--- which discipline brazil perfomed better?
-
+-- counting the number of athletes by discipline in Brazil
 select Discipline, count(*)
 from athletes
 where NOC = 'Brazil'
