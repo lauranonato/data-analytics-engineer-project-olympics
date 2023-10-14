@@ -22,6 +22,7 @@ Download the dataset in csv format, ingest it on this github repository and extr
 Write some spark code to read the data from the data lake, apply transformation techniques and load it back to data lake avaliable for analysis.
 
 **Step 3: Data Analysis**
+
 Following, use Synapse Analytics tool to run SQL queries on transformed data and find some insights through visualizations.
 
 
