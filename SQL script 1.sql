@@ -28,6 +28,18 @@ group by
     Discipline
 ;
 
+-- Which discipline had the most significant difference in the number of entries by gender?
+
+select
+    Discipline,
+    sum(Male) AS total_male,
+    sum(Female) AS total_female,
+    abs(sum(Male) - sum(Female)) AS diference
+from entries_gender
+group by 
+    Discipline
+order by diference desc
+
 
 -- counting the number of athletes by discipline in Brazil
 select Discipline, count(*)
