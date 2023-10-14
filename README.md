@@ -46,9 +46,9 @@ Athletics and Handball had the most significant number of athletes, following sw
 3. Analyzing the medals
 
 
-USA and China won the most number of gold medals, 39 and 38. 
-Following Japan (27).
-Brazil is in the 12º position.
+USA and China secured the highest number of gold medals, 39 and 38 respectively. 
+Following by Japan with 27.
+Brazil holds the 12º position.
 
 ![SQL script 1(2)](https://github.com/lauranonato/data-analytics-engineer-project-olympics/assets/56266061/82b8fdab-8f34-4156-b266-5035ee90f136)
 
