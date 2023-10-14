@@ -28,19 +28,25 @@ Following, use Synapse Analytics tool to run SQL queries on transformed data and
 
 1. Which discipline had the most significant difference in the number of entries by gender?
 
-Artistic Swimming, Rythimic Gymnastic and Ciclying road are in the top 3 in all disciplines.
+Artistic Swimming, Athletics and Wrestling are in the top 3 in all disciplines.
+
+![image](https://github.com/lauranonato/data-analytics-engineer-project-olympics/assets/56266061/f91abe52-6f2c-415d-aaaa-34e438cebc0d)
+
 
 ![SQL script 1(6)](https://github.com/lauranonato/data-analytics-engineer-project-olympics/assets/56266061/20c0fd8d-a95f-4206-96e0-7bb58e808fa4)
 
 
-The visualization of total entries grouped by gender and discipline
+The visualization the average number of entries by gender for each discipline
 
 ![SQL script 1(5)](https://github.com/lauranonato/data-analytics-engineer-project-olympics/assets/56266061/6b6b4e0b-e1da-4b43-9048-e5db52a0f816)
 
 
 2. Counting the number of brazilian athletes by discipline
 
-Athletics and Handball had the most significant number of athletes, following swimming.
+Athletics, Football and Handball had the most significant number of athletes, following Volleyball.
+
+![image](https://github.com/lauranonato/data-analytics-engineer-project-olympics/assets/56266061/66439f5e-720d-460f-86bb-3c226fadce6c)
+
 
 ![SQL script 1](https://github.com/lauranonato/data-analytics-engineer-project-olympics/assets/56266061/80140b67-24c8-48ce-9004-18bd588ee36d)
 
@@ -51,7 +57,14 @@ USA and China secured the highest number of gold medals, 39 and 38 respectively.
 Following by Japan with 27.
 Brazil holds the 12º position.
 
+![image](https://github.com/lauranonato/data-analytics-engineer-project-olympics/assets/56266061/d1c62950-6932-4115-a3e2-79eceb53c765)
+
+
 ![SQL script 1(2)](https://github.com/lauranonato/data-analytics-engineer-project-olympics/assets/56266061/82b8fdab-8f34-4156-b266-5035ee90f136)
+
+4. Counting the number of athletes by country
+
+![image](https://github.com/lauranonato/data-analytics-engineer-project-olympics/assets/56266061/8ad2f273-ed80-4bfd-bbb0-141b5b4298c7)
 
 
 
